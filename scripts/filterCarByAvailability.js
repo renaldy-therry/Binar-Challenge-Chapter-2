@@ -4,11 +4,13 @@ function filterCarByAvailability(cars) {
 
   // Tempat penampungan hasil
   const result = [];
+  let available= 0;
 
   // Tulis code-mu disini
   for( let i=0; i < cars.length; i++) {
     if( cars[i].available == true) {
-       result.push(cars[i]);
+       result[available] = cars[i];
+       available++;
     }
   }
    
