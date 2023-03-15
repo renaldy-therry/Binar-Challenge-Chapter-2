@@ -1,5 +1,8 @@
 # Javascript: Array Challenge
 
+Nama : Renaldy William Lijaya Therry
+Kelas : FSW-1
+
 Tugasmu disini adalah memodifikasi file-file berikut:
 
 - [`scripts/filterCarByAvailability.js`](./scripts/filterCarByAvailability.js)
